@@ -1,6 +1,6 @@
 # Ajay Kumar Mukhi
-
-![alt text]()
+![alt text](https://github.com/AjayMukhi/ITMD-521/blob/master/ITMD-521/Week-01/Images/IMG-20170421-WA0004.jpg)
+![alt text](https://github.com/AjayMukhi/ITMD-521/blob/master/ITMD-521/Week-01/Images/IMG-20170820-WA0023.jpg)
 
 # Where you from?
 I am from Orissa state,India.
