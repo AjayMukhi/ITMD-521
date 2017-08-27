@@ -21,7 +21,9 @@ I have lots of interest in technology specially ,IT entrepreneurship and Innovat
    * Awarded Best Project member in Retail Domain by vice president, Wipro for the year 2011-2012.
 
 Though not interesting but I love to sleep.During my undergrad ,I continuously slept for 14 hrs.
+
 My favorite actor is Leonardo da caprio.
+My favorite Movie is Lord of the Rings.
 
 # Git Tutorial
 
