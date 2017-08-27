@@ -15,7 +15,6 @@ I have lots of interest in technology specially ,IT entreprenuership and Innovat
    dedicated to wild life adventure (Animal Planet and Discovery Channel).
    
 * ACHIEVEMENT
-
    Awarded Feather in my Cap by manager to fast resolving capabilities.
    Awarded Excellence Award by VF client for dedication toward work and my commitment. 
    Awarded Best Project member in Retail Domain by vice president, Wipro for the year 2011-2012.
