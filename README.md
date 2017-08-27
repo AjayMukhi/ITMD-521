@@ -26,4 +26,4 @@ My favorite actor is Leonardo da caprio.
 My favorite Movie is Lord of the Rings.
 
 # Git Tutorial
-
+![alt text](https://github.com/AjayMukhi/ITMD-521/blob/master/ITMD-521/Week-01/Images/badge.png)
